@@ -30,6 +30,7 @@ a {
 
 .topNavBar .logo .rs {
     color: rgb(230, 104, 106);
+    margin-right: 5px;
 }
 
 .topNavBar .logo .card {
